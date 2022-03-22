@@ -48,7 +48,7 @@ import (
 	"io"
 	"math/big"
 
-	"ypenghui6/crypto/bn256"
+	"github.com/ypenghui6/crypto/bn256"
 )
 
 // Params represents the system parameters for a hierarchy.

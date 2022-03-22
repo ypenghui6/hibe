@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"ypenghui6/crypto/bn256"
+	"github.com/ypenghui6/crypto/bn256"
 )
 
 var ID = []string{"a", "b", "c"}
