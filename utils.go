@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"math/big"
 
-	"vuvuzela.io/crypto/bn256"
+	"ypenghui6/crypto/bn256"
 )
 
 // geSize is the base size in bytes of a marshalled group element. The size of

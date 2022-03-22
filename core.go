@@ -48,7 +48,7 @@ import (
 	"io"
 	"math/big"
 
-	"vuvuzela.io/crypto/bn256"
+	"ypenghui6/crypto/bn256"
 )
 
 // Params represents the system parameters for a hierarchy.
